@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @valentina-saulli
-- 👀 I’m interested in Music and new technology
+- 👀 I’m interested in data, new tecnology and music business
 - 🌱 I’m currently learning data analysis
-- 📫 How to reach me by e-mail
+- 📫 How to reach me by e-mail: valentina.saulli@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: i love singing
+- ⚡ Fun fact: I watch a lot of series
 
 <!---
 valentina-saulli/valentina-saulli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
