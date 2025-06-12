@@ -1,4 +1,4 @@
-Progetto Finale - Analisi della Digitalizzazione delle PMI Italiane
+Progetto Finale - Analisi sullo stato di Digitalizzazione delle PMI Italiane
 
 Questo progetto, sviluppato come capstone finale del corso in Data Analysis, analizza il livello di digitalizzazione delle piccole e medie imprese italiane (PMI) tra il 2018 e il 2024. L’obiettivo è valutare come l'adozione di strumenti digitali abbia inciso sull’organizzazione aziendale, la comunicazione con i clienti e i risultati economici, soprattutto in relazione all’impatto della pandemia da Covid-19.
 
